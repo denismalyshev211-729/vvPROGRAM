@@ -1,0 +1,3 @@
+﻿  vv14.cpp
+C:\Users\user\Desktop\study\VVprogram\vv14\vv14.cpp(41,16): error C2374: r: переопределение; множественная инициализация
+C:\Users\user\Desktop\study\VVprogram\vv14\vv14.cpp(31,9): message : см. объявление "r"

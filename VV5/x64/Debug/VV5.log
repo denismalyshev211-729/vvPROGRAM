@@ -1,0 +1,9 @@
+﻿  VV5.cpp
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(27,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(85,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(86,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(108,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(109,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(110,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\study\VVprogram\VV5\VV5.cpp(112,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  VV5.vcxproj -> C:\Users\user\Desktop\study\VVprogram\VV5\x64\Debug\VV5.exe
